@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<ArrayOfGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Game>
+    <_name>Undertale</_name>
+    <_releaseYear>2015</_releaseYear>
+    <_price>3500</_price>
+    <_finished>false</_finished>
+    <_owned>true</_owned>
+  </Game>
+  <Game>
+    <_name>Minecraft</_name>
+    <_releaseYear>2009</_releaseYear>
+    <_price>7000</_price>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <_name>GTA V</_name>
+    <_releaseYear>2015</_releaseYear>
+    <_price>12000</_price>
+    <_finished>true</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <_name>The Elder Scrolls: Skyrim</_name>
+    <_releaseYear>2011</_releaseYear>
+    <_price>12500</_price>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <_name>Tom Clancy's: The Division</_name>
+    <_releaseYear>2016</_releaseYear>
+    <_price>12500</_price>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <_name>Final Fantasy XV</_name>
+    <_releaseYear>2016</_releaseYear>
+    <_price>12500</_price>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <_name>Overwatch</_name>
+    <_releaseYear>2015</_releaseYear>
+    <_price>7000</_price>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <_name>ARK: Survival Evolved</_name>
+    <_releaseYear>2015</_releaseYear>
+    <_price>16000</_price>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <_name>Assassin's Creed Odyssey</_name>
+    <_releaseYear>2018</_releaseYear>
+    <_price>20000</_price>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <_name>Enter the Gungeon</_name>
+    <_releaseYear>2016</_releaseYear>
+    <_price>11500</_price>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <_name>Diablo III</_name>
+    <_releaseYear>2012</_releaseYear>
+    <_price>6000</_price>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <_name>Rocket League</_name>
+    <_releaseYear>2015</_releaseYear>
+    <_price>7000</_price>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <_name>Red Dead Redemption 2</_name>
+    <_releaseYear>2018</_releaseYear>
+    <_price>20000</_price>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <_name>MONSTER HUNTER: WORLD</_name>
+    <_releaseYear>2018</_releaseYear>
+    <_price>11500</_price>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+  <Game>
+    <_name>The Witcher 3: Wild Hunt</_name>
+    <_releaseYear>2015</_releaseYear>
+    <_price>14000</_price>
+    <_finished>false</_finished>
+    <_owned>false</_owned>
+  </Game>
+</ArrayOfGame>
